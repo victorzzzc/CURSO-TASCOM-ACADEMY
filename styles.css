@@ -24,6 +24,10 @@ body{
 
         }
 
+        .nome{
+            color: green;
+        }
+
         h3{
             margin-left: 205px;
             color: black;
@@ -48,7 +52,14 @@ body{
         border-radius:  5px;
       }
 
+      button:hover{
+        background-color: white;
+      }
       a{
         text-decoration: none;
         color: white;
+      }
+
+      a:hover{
+        color: black;
       }
